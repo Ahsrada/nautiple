@@ -6,6 +6,7 @@ class Door extends MY_Controller{
 	
 	function index(){
 		$this->load->view('door');
+		
 	}
 }
 
